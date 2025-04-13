@@ -39,7 +39,7 @@ This mini compiler demonstrates the key stages of compilation, using widely acce
 ---
 
 ## 📁 Repository Structure
-TokenizeC
+<pre>```TokenizeC
 ├── Poject-1/
 │   ├── lexer.l
 │   ├── input.c
@@ -57,4 +57,4 @@ TokenizeC
 ├── README.md
 └── sample_programs/
     ├── example1.c
-    └── example2.c
+    └── example2.c  ``` </pre> 
