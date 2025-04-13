@@ -40,7 +40,7 @@ This mini compiler demonstrates the key stages of compilation, using widely acce
 
 ## 📁 Repository Structure
 <pre>TokenizeC
-├── [Poject-1]/(Project-1)
+├──  Poject-1
 │   ├── lexer.l
 │   ├── input.c
 │   └── Readme.md
