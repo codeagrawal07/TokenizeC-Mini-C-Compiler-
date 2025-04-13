@@ -38,20 +38,22 @@ This mini compiler demonstrates the key stages of compilation, using widely acce
 
 ---
 
-## 📁 Repository Structure (Suggested)
-TokenizeC/
-├── Phase1_LexicalAnalyzer/
+## 📁 Repository Structure
+TokenizeC
+├── Poject-1/
 │   ├── lexer.l
 │   ├── input.c
-│   └── Makefile
-├── Phase2_Parser/
+│   └── Readme.md
+├── Project-2/
 │   ├── parser.y
 │   ├── lexer.l
-│   └── Makefile
-├── Phase3_SemanticAnalyzer/
+│   └── Readme.md
+├── Project-3/
 │   └── semantic.c
-├── Phase4_ICG/
+|   └── Reade.md
+├── Project-4/
 │   └── icg.c
+|   └── Readme.md
 ├── README.md
 └── sample_programs/
     ├── example1.c
